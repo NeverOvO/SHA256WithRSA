@@ -1,5 +1,4 @@
 # SHA256WithRSA
-https://996.icu/#/en_US
 C++/Qt 的SHA256WithRSA私钥签名
 
 鸣谢：https://www.jianshu.com/p/8d363b2898d7 Replay923提供的源码
